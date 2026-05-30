@@ -1,3 +1,5 @@
+[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](./book/The_Forward_Deployed_Engineer.pdf)
+
 # The Forward Deployed Engineer: A Q2 2026 Conversion Manual
 
 A conversion manual for people considering a move into the Forward Deployed Engineer role or just curious what it is and how it works. Ten chapters drawn from earnings call transcripts, workforce transformation announcements, job listings, YouTube interviews and podcasts with working FDEs, compensation analyses, and independent research reports. The book traces the role from its Palantir origins through its Q2 2026 proliferation, names the labor-market cycle driving it, describes what the work actually is week to week, weighs whether the role is inflating toward commodity status, maps three familiar corporate roles to the FDE conversion path, and covers the skill stack, interview architecture, employer landscape, and career trajectories.
@@ -63,7 +65,3 @@ I am not employed by Palantir, Salesforce, OpenAI, Anthropic, or any company who
 ## License
 
 This book is released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](./LICENSE) for full terms and disclaimers.
-
----
-
-[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](./book/The_Forward_Deployed_Engineer.pdf)
