@@ -2,6 +2,8 @@
 
 A conversion manual for people considering a move into the Forward Deployed Engineer role or just curious what it is and how it works. Ten chapters drawn from earnings call transcripts, workforce transformation announcements, job listings, YouTube interviews and podcasts with working FDEs, compensation analyses, and independent research reports. The book traces the role from its Palantir origins through its Q2 2026 proliferation, names the labor-market cycle driving it, describes what the work actually is week to week, weighs whether the role is inflating toward commodity status, maps three familiar corporate roles to the FDE conversion path, and covers the skill stack, interview architecture, employer landscape, and career trajectories.
 
+[Video overview of the project](https://www.youtube.com/watch?v=AJu9wOMmkhM)
+
 ## Why "Q2 2026"
 
 The date in the title is deliberate. The FDE role is changing fast, and a lot of what this book reports is tied to a specific moment: which companies are hiring, what they pay, how the title is used, and what the interviews look like. Those details are grounded in dated public sources, and they will go out of date. What is meant to last is the underlying analysis: how a role like this tends to appear, get hyped, and then become ordinary once more people can do it. The specifics are a snapshot; the pattern is not. Chapter 3 takes this up directly and is honest about which of the book's claims have a shelf life and which do not.
