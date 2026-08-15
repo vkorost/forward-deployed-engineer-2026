@@ -1,4 +1,4 @@
-[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](./book/The_Forward_Deployed_Engineer.pdf)
+[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest/download/The_Forward_Deployed_Engineer.pdf)
 
 # The Forward Deployed Engineer: A Q2 2026 Conversion Manual
 
@@ -35,12 +35,17 @@ The book itself was assembled with Claude using techniques described in [weekend
 9. [**Where the Jobs Are**](./book/chapters/09-where-the-jobs-are.md): employer tiers, title variants to search for, compensation by tier, and the heuristic for distinguishing a real FDE listing from a services-engineer rebrand.
 10. [**Trajectories**](./book/chapters/10-trajectories.md): where senior FDEs go. Product, founding, staying technical, exiting to a customer, returning to core engineering.
 
+## Download
+
+- [**PDF**](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest/download/The_Forward_Deployed_Engineer.pdf) — for offline reading and print.
+- [**EPUB**](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest/download/The_Forward_Deployed_Engineer.epub) — for e-readers.
+
+Both are attached to the [latest release](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest) and always point at the current revision. The book is corrected in place rather than re-versioned, so these links never go stale.
+
 ## What's in this repo
 
 - `README.md`: this file.
 - `LICENSE`: full license terms (see License below).
-- [`book/The_Forward_Deployed_Engineer.pdf`](./book/The_Forward_Deployed_Engineer.pdf): PDF for offline reading and print.
-- [`book/The_Forward_Deployed_Engineer.epub`](./book/The_Forward_Deployed_Engineer.epub): EPUB for e-readers.
 - `book/chapters/`: the ten chapters as individual Markdown files.
 - `book/FDE-Cover.jpg`: cover image.
 
