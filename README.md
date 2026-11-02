@@ -1,4 +1,4 @@
-[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest/download/The_Forward_Deployed_Engineer.pdf)
+[![The Forward Deployed Engineer — A Q2 2026 Conversion Manual](./book/forward-deployed-engineer-2026-social-800x400.jpg)](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest)
 
 # The Forward Deployed Engineer: A Q2 2026 Conversion Manual
 
@@ -70,3 +70,7 @@ I am not employed by Palantir, Salesforce, OpenAI, Anthropic, or any company who
 ## License
 
 This book is released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See [LICENSE](./LICENSE) for full terms and disclaimers.
+
+---
+
+[![The Forward Deployed Engineer cover](./book/FDE-Cover.jpg)](https://github.com/vkorost/forward-deployed-engineer-2026/releases/latest/download/The_Forward_Deployed_Engineer.pdf)
